@@ -1,0 +1,7 @@
+# Save by kssiv on 2021_10_06-20.31.02; build 2017 2016_09_27-23.54.59 126836
+from abaqus import *
+upgradeMdb(
+    'E:/Hiwi/Hiwi files/Hiwi files/Aluminium_Tensile-Specimen/AluminiumSpecimen-2016-FD01.cae'
+    , 
+    'E:/Hiwi/Hiwi files/Hiwi files/Aluminium_Tensile-Specimen/AluminiumSpecimen.cae')
+# Save by kssiv on 2021_10_06-20.31.02; build 2017 2016_09_27-23.54.59 126836
